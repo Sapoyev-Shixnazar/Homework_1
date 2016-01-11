@@ -1,0 +1,26 @@
+.bg-color1{
+    background-color: #ededed;
+}
+.margin-left{
+    margin-right: 3px;
+    margin-top: 2px;
+    border-radius: 4px;
+}
+.margin-left1{
+   margin-top: 4px;
+   margin-left: 6px;
+    margin-bottom: 5px;
+}
+.bg-hover:hover {
+    color: #000000;
+}
+.act {
+    background-color:#000000;
+
+}
+.disp{
+    display: inline-block;
+}
+.border{
+    border-color: #87c5e8;
+}
